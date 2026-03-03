@@ -27,7 +27,7 @@ back to the canonical sources.
 
 ## Compiled Documents Index
 
-See `INDEX.md` for an index of the current list of compiled documents
+See [`INDEX.md`](`INDEX.md`) for an index of the current list of compiled documents
 available.
 
 ## TODO
