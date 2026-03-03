@@ -25,6 +25,11 @@ back to the canonical sources.
 - Not a substitute for upstream pinning (tags/commits) in the source
   repositories.
 
+## Compiled Documents Index
+
+See `INDEX.md` for an index of the current list of compiled documents
+available.
+
 ## TODO
 
 This repo is a work in progress.
