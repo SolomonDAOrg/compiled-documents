@@ -9617,7 +9617,7 @@ endobj
 endobj
 69 0 obj
 <<
-  /Length 12175
+  /Length 12618
 >>
 stream
 q
@@ -10177,27 +10177,20 @@ q
 BT
 /F1 10 Tf
 1 0 0 1 425.48 536.75 Tm
-(bps) Tj
+(bps,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 444.38 536.75 Tm
-(and) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 463.84 536.75 Tm
+1 0 0 1 447.16 536.75 Tm
 (the) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 480.52 536.75 Tm
+1 0 0 1 463.84 536.75 Tm
 (non-team) Tj
 ET
 Q
@@ -10247,363 +10240,426 @@ q
 BT
 /F1 10 Tf
 1 0 0 1 271.26 521.75 Tm
-(to) Tj
+(and) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 282.38 521.75 Tm
-(align) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 306.28 521.75 Tm
-(with) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 326.84 521.75 Tm
+1 0 0 1 290.72 521.75 Tm
 (the) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 343.52 521.75 Tm
-(other) Tj
+1 0 0 1 307.4 521.75 Tm
+(minimum) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 369.09 521.75 Tm
-(cohort) Tj
+1 0 0 1 350.73 521.75 Tm
+(stake) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 399.66 521.75 Tm
-(DAOs.) Tj
+1 0 0 1 377.41 521.75 Tm
+(threshold) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 92 506.75 Tm
-(\225) Tj
+1 0 0 1 421.32 521.75 Tm
+(from) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 444.1 521.75 Tm
+(500k) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 468.56 521.75 Tm
+(\273) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 476.9 521.75 Tm
+(1.5M) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 501.91 521.75 Tm
+(to) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 513.03 521.75 Tm
+(align) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
 1 0 0 1 107 506.75 Tm
-(The) Tj
+(with) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 127.01 506.75 Tm
-($150,000) Tj
+1 0 0 1 127.56 506.75 Tm
+(the) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 171.49 506.75 Tm
-(is) Tj
+1 0 0 1 144.24 506.75 Tm
+(other) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 181.49 506.75 Tm
-(intended) Tj
+1 0 0 1 169.81 506.75 Tm
+(cohort) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 222.63 506.75 Tm
-(to) Tj
+1 0 0 1 200.38 506.75 Tm
+(DAOs.) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 233.75 506.75 Tm
-(cover) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 260.98 506.75 Tm
-(ongoing) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 299.34 506.75 Tm
-(Company-facing) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 374.92 506.75 Tm
-(legal) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 398.82 506.75 Tm
-(and) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 418.28 506.75 Tm
-(compliance) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 471.63 506.75 Tm
-(costs) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 497.75 506.75 Tm
-(while) Tj
+1 0 0 1 92 491.75 Tm
+(\225) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
 1 0 0 1 107 491.75 Tm
-(maintaining) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 160.91 491.75 Tm
-(a) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 169.25 491.75 Tm
-(buffer.) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 92 476.75 Tm
-(\225) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 107 476.75 Tm
-(These) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 137.57 476.75 Tm
-(funds) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 164.81 476.75 Tm
-(are) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 182.04 476.75 Tm
-(restricted) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 225.94 476.75 Tm
-(to) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 237.06 476.75 Tm
-(legal,) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 263.74 476.75 Tm
-(regulatory,) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 313.76 476.75 Tm
-(and) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 333.22 476.75 Tm
-(related) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 366.57 476.75 Tm
-(compliance) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 419.92 476.75 Tm
-(work) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 443.81 476.75 Tm
-(and) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 463.27 476.75 Tm
-(cannot) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 496.07 476.75 Tm
-(be) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 509.97 476.75 Tm
-(used) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 107 461.75 Tm
-(for) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 121.45 461.75 Tm
-(anything) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 162.03 461.75 Tm
-(else.) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 92 446.75 Tm
-(\225) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 107 446.75 Tm
 (The) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 127.01 446.75 Tm
+1 0 0 1 127.01 491.75 Tm
+($150,000) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 171.49 491.75 Tm
+(is) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 181.49 491.75 Tm
+(intended) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 222.63 491.75 Tm
+(to) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 233.75 491.75 Tm
+(cover) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 260.98 491.75 Tm
+(ongoing) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 299.34 491.75 Tm
+(Company-facing) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 374.92 491.75 Tm
+(legal) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 398.82 491.75 Tm
+(and) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 418.28 491.75 Tm
+(compliance) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 471.63 491.75 Tm
+(costs) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 497.75 491.75 Tm
+(while) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 107 476.75 Tm
+(maintaining) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 160.91 476.75 Tm
+(a) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 169.25 476.75 Tm
+(buffer.) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 92 461.75 Tm
+(\225) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 107 461.75 Tm
+(These) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 137.57 461.75 Tm
+(funds) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 164.81 461.75 Tm
+(are) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 182.04 461.75 Tm
+(restricted) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 225.94 461.75 Tm
+(to) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 237.06 461.75 Tm
+(legal,) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 263.74 461.75 Tm
+(regulatory,) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 313.76 461.75 Tm
+(and) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 333.22 461.75 Tm
+(related) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 366.57 461.75 Tm
+(compliance) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 419.92 461.75 Tm
 (work) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 150.9 446.75 Tm
-(will) Tj
+1 0 0 1 443.81 461.75 Tm
+(and) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 167.56 446.75 Tm
+1 0 0 1 463.27 461.75 Tm
+(cannot) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 496.07 461.75 Tm
 (be) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 181.46 446.75 Tm
+1 0 0 1 509.97 461.75 Tm
+(used) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 107 446.75 Tm
+(for) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 121.45 446.75 Tm
+(anything) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 162.03 446.75 Tm
+(else.) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 92 431.75 Tm
+(\225) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 107 431.75 Tm
+(The) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 127.01 431.75 Tm
+(work) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 150.9 431.75 Tm
+(will) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 167.56 431.75 Tm
+(be) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 181.46 431.75 Tm
 (contracted) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 230.93 446.75 Tm
+1 0 0 1 230.93 431.75 Tm
 (across) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 263.16 446.75 Tm
+1 0 0 1 263.16 431.75 Tm
 (three) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 288.73 446.75 Tm
+1 0 0 1 288.73 431.75 Tm
 (firms:) Tj
 ET
 Q
@@ -10611,7 +10667,7 @@ q
 0.0431 0.2392 0.5686 rg
 BT
 /F1 10 Tf
-1 0 0 1 107 431.75 Tm
+1 0 0 1 107 416.75 Tm
 (Morrison) Tj
 ET
 Q
@@ -10619,7 +10675,7 @@ q
 0.0431 0.2392 0.5686 rg
 BT
 /F1 10 Tf
-1 0 0 1 148.67 431.75 Tm
+1 0 0 1 148.67 416.75 Tm
 (Cohen) Tj
 ET
 Q
@@ -10627,14 +10683,14 @@ q
 0.0431 0.2392 0.5686 rg
 BT
 /F1 10 Tf
-1 0 0 1 180.91 431.75 Tm
+1 0 0 1 180.91 416.75 Tm
 (LLP) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 198.7 431.75 Tm
+1 0 0 1 198.7 416.75 Tm
 (,) Tj
 ET
 Q
@@ -10642,7 +10698,7 @@ q
 0.0431 0.2392 0.5686 rg
 BT
 /F1 10 Tf
-1 0 0 1 204.26 431.75 Tm
+1 0 0 1 204.26 416.75 Tm
 (NXT) Tj
 ET
 Q
@@ -10650,21 +10706,21 @@ q
 0.0431 0.2392 0.5686 rg
 BT
 /F1 10 Tf
-1 0 0 1 227.04 431.75 Tm
+1 0 0 1 227.04 416.75 Tm
 (Law) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 245.38 431.75 Tm
+1 0 0 1 245.38 416.75 Tm
 (,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 250.94 431.75 Tm
+1 0 0 1 250.94 416.75 Tm
 (and) Tj
 ET
 Q
@@ -10672,434 +10728,434 @@ q
 0.0431 0.2392 0.5686 rg
 BT
 /F1 10 Tf
-1 0 0 1 270.4 431.75 Tm
+1 0 0 1 270.4 416.75 Tm
 (GVRN) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 299.29 431.75 Tm
+1 0 0 1 299.29 416.75 Tm
 (.) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 92 416.75 Tm
+1 0 0 1 92 401.75 Tm
 (\225) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 107 416.75 Tm
+1 0 0 1 107 401.75 Tm
 (The) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 127.01 416.75 Tm
+1 0 0 1 127.01 401.75 Tm
 (purpose) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 165.92 416.75 Tm
+1 0 0 1 165.92 401.75 Tm
 (is) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 175.92 416.75 Tm
+1 0 0 1 175.92 401.75 Tm
 (to) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 187.04 416.75 Tm
+1 0 0 1 187.04 401.75 Tm
 (pay) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 205.94 416.75 Tm
+1 0 0 1 205.94 401.75 Tm
 (for) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 220.39 416.75 Tm
+1 0 0 1 220.39 401.75 Tm
 (legal,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 247.07 416.75 Tm
+1 0 0 1 247.07 401.75 Tm
 (regulatory,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 297.09 416.75 Tm
+1 0 0 1 297.09 401.75 Tm
 (and) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 316.55 416.75 Tm
+1 0 0 1 316.55 401.75 Tm
 (related) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 349.9 416.75 Tm
+1 0 0 1 349.9 401.75 Tm
 (work) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 373.79 416.75 Tm
+1 0 0 1 373.79 401.75 Tm
 (needed) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 409.93 416.75 Tm
+1 0 0 1 409.93 401.75 Tm
 (to:) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 107 401.75 Tm
+1 0 0 1 107 386.75 Tm
 (complete) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 150.35 401.75 Tm
+1 0 0 1 150.35 386.75 Tm
 (Company) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 195.92 401.75 Tm
+1 0 0 1 195.92 386.75 Tm
 (formation,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 243.16 401.75 Tm
+1 0 0 1 243.16 386.75 Tm
 (keep) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 267.62 401.75 Tm
+1 0 0 1 267.62 386.75 Tm
 (the) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 284.3 401.75 Tm
+1 0 0 1 284.3 386.75 Tm
 (Company) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 329.87 401.75 Tm
+1 0 0 1 329.87 386.75 Tm
 (compliant) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 375.44 401.75 Tm
+1 0 0 1 375.44 386.75 Tm
 (with) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 396 401.75 Tm
+1 0 0 1 396 386.75 Tm
 (its) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 408.78 401.75 Tm
+1 0 0 1 408.78 386.75 Tm
 (filing) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 432.12 401.75 Tm
+1 0 0 1 432.12 386.75 Tm
 (and) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 451.58 401.75 Tm
+1 0 0 1 451.58 386.75 Tm
 (reporting) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 493.82 401.75 Tm
+1 0 0 1 493.82 386.75 Tm
 (duties,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 107 386.75 Tm
+1 0 0 1 107 371.75 Tm
 (and) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 126.46 386.75 Tm
+1 0 0 1 126.46 371.75 Tm
 (support) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 162.59 386.75 Tm
+1 0 0 1 162.59 371.75 Tm
 (safe) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 184.27 386.75 Tm
+1 0 0 1 184.27 371.75 Tm
 (governance) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 239.3 386.75 Tm
+1 0 0 1 239.3 371.75 Tm
 (and) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 258.76 386.75 Tm
+1 0 0 1 258.76 371.75 Tm
 (treasury) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 297.66 386.75 Tm
+1 0 0 1 297.66 371.75 Tm
 (structures.) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 72 366.75 Tm
+1 0 0 1 72 351.75 Tm
 (This) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 93.67 366.75 Tm
+1 0 0 1 93.67 351.75 Tm
 (summary) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 137.56 366.75 Tm
+1 0 0 1 137.56 351.75 Tm
 (does) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 162.02 366.75 Tm
+1 0 0 1 162.02 351.75 Tm
 (not) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 178.7 366.75 Tm
+1 0 0 1 178.7 351.75 Tm
 (describe) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 219.27 366.75 Tm
+1 0 0 1 219.27 351.75 Tm
 (individual) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 263.73 366.75 Tm
+1 0 0 1 263.73 351.75 Tm
 (invoices,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 305.41 366.75 Tm
+1 0 0 1 305.41 351.75 Tm
 (providers,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 352.09 366.75 Tm
+1 0 0 1 352.09 351.75 Tm
 (or) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 363.76 366.75 Tm
+1 0 0 1 363.76 351.75 Tm
 (specific) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 399.88 366.75 Tm
+1 0 0 1 399.88 351.75 Tm
 (workstreams.) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 462.11 366.75 Tm
+1 0 0 1 462.11 351.75 Tm
 (Those) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 492.68 366.75 Tm
+1 0 0 1 492.68 351.75 Tm
 (details) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 72 351.75 Tm
+1 0 0 1 72 336.75 Tm
 (may) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 93.67 351.75 Tm
+1 0 0 1 93.67 336.75 Tm
 (be) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 107.57 351.75 Tm
+1 0 0 1 107.57 336.75 Tm
 (handled) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 145.93 351.75 Tm
+1 0 0 1 145.93 336.75 Tm
 (under) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 174.28 351.75 Tm
+1 0 0 1 174.28 336.75 Tm
 (Company) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 219.85 351.75 Tm
+1 0 0 1 219.85 336.75 Tm
 (processes) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 268.2 351.75 Tm
+1 0 0 1 268.2 336.75 Tm
 (and,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 290.44 351.75 Tm
+1 0 0 1 290.44 336.75 Tm
 (where) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 320.45 351.75 Tm
+1 0 0 1 320.45 336.75 Tm
 (needed,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 359.37 351.75 Tm
+1 0 0 1 359.37 336.75 Tm
 (under) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 387.72 351.75 Tm
+1 0 0 1 387.72 336.75 Tm
 (confidentiality) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 451.08 351.75 Tm
+1 0 0 1 451.08 336.75 Tm
 (or) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 462.75 351.75 Tm
+1 0 0 1 462.75 336.75 Tm
 (privilege.) Tj
 ET
 Q
@@ -11137,7 +11193,7 @@ endobj
 <<
   /Type /Annot
   /Subtype /Link
-  /Rect [107 429.75 198.7 444.75]
+  /Rect [107 414.75 198.7 429.75]
   /Border [0 0 0]
   /F 4
   /A <<
@@ -11151,7 +11207,7 @@ endobj
 <<
   /Type /Annot
   /Subtype /Link
-  /Rect [204.26 429.75 245.38 444.75]
+  /Rect [204.26 414.75 245.38 429.75]
   /Border [0 0 0]
   /F 4
   /A <<
@@ -11165,7 +11221,7 @@ endobj
 <<
   /Type /Annot
   /Subtype /Link
-  /Rect [270.4 429.75 299.28999999999996 444.75]
+  /Rect [270.4 414.75 299.28999999999996 429.75]
   /Border [0 0 0]
   /F 4
   /A <<
@@ -20809,7 +20865,7 @@ endobj
 endobj
 102 0 obj
 <<
-  /Length 4352
+  /Length 4551
 >>
 stream
 q
@@ -21180,147 +21236,175 @@ q
 BT
 /F1 10 Tf
 1 0 0 1 72 493 Tm
-(bps) Tj
+(bps,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 90.9 493 Tm
-(and) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 110.36 493 Tm
+1 0 0 1 93.68 493 Tm
 (the) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 127.04 493 Tm
+1 0 0 1 110.36 493 Tm
 (non-team) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 172.06 493 Tm
+1 0 0 1 155.38 493 Tm
 (proposal) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 213.19 493 Tm
+1 0 0 1 196.51 493 Tm
 (pass) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 237.09 493 Tm
+1 0 0 1 220.41 493 Tm
 (threshold) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 281 493 Tm
+1 0 0 1 264.32 493 Tm
 (to) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 292.12 493 Tm
+1 0 0 1 275.44 493 Tm
 (+300) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 317.42 493 Tm
-(bps.) Tj
+1 0 0 1 300.74 493 Tm
+(bps) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 319.64 493 Tm
+(and) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
 1 0 0 1 339.1 493 Tm
-(Any) Tj
+(the) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 359.11 493 Tm
-(broader) Tj
+1 0 0 1 355.78 493 Tm
+(minimum) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 396.35 493 Tm
-(staking/threshold) Tj
+1 0 0 1 399.11 493 Tm
+(stake) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 474.72 493 Tm
-(changes) Tj
+1 0 0 1 425.79 493 Tm
+(threshold) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 515.3 493 Tm
-(will) Tj
+1 0 0 1 469.7 493 Tm
+(from) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 492.48 493 Tm
+(500k) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 516.94 493 Tm
+(\273) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
 1 0 0 1 72 478 Tm
-(be) Tj
+(1.5M) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 85.9 478 Tm
-(handled) Tj
+1 0 0 1 97.01 478 Tm
+(to) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 124.26 478 Tm
-(via) Tj
+1 0 0 1 108.13 478 Tm
+(align) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 139.82 478 Tm
-(a) Tj
+1 0 0 1 132.03 478 Tm
+(with) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 148.16 478 Tm
-(separate) Tj
+1 0 0 1 152.59 478 Tm
+(the) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 189.85 478 Tm
-(proposal.) Tj
+1 0 0 1 169.27 478 Tm
+(other) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 194.84 478 Tm
+(cohort) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 225.41 478 Tm
+(DAOs.) Tj
 ET
 Q
 q
@@ -22631,7 +22715,7 @@ endobj
 endobj
 110 0 obj
 <<
-  /Length 5384
+  /Length 5125
 >>
 stream
 q
@@ -22806,41 +22890,34 @@ q
 BT
 /F1 10 Tf
 1 0 0 1 367.13 624.25 Tm
-(bps\)) Tj
+(bps\),) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 389.36 624.25 Tm
-(and) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 408.82 624.25 Tm
+1 0 0 1 392.14 624.25 Tm
 (the) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 425.5 624.25 Tm
+1 0 0 1 408.82 624.25 Tm
 (non-team) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 470.52 624.25 Tm
+1 0 0 1 453.84 624.25 Tm
 (proposal) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 511.65 624.25 Tm
+1 0 0 1 494.97 624.25 Tm
 (pass) Tj
 ET
 Q
@@ -22869,91 +22946,175 @@ q
 BT
 /F1 10 Tf
 1 0 0 1 212.9 609.25 Tm
-(bps\).) Tj
+(bps\)) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 235.13 609.25 Tm
+(and) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 254.59 609.25 Tm
+(the) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 271.27 609.25 Tm
+(minimum) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 314.6 609.25 Tm
+(stake) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 341.28 609.25 Tm
+(threshold) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 385.19 609.25 Tm
+(from) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 407.97 609.25 Tm
+(500k) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 432.43 609.25 Tm
+(\273) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 440.77 609.25 Tm
+(1.5M) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 465.78 609.25 Tm
+(to) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 476.9 609.25 Tm
+(align) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 500.8 609.25 Tm
+(with) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 521.36 609.25 Tm
+(the) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 107 594.25 Tm
+(other) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 132.57 594.25 Tm
+(cohort) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 163.14 594.25 Tm
+(DAOs.) Tj
 ET
 Q
 q
 BT
 /F2 10 Tf
-1 0 0 1 72 589.25 Tm
+1 0 0 1 72 574.25 Tm
 (RESOLVED:) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 133.12 589.25 Tm
+1 0 0 1 133.12 574.25 Tm
 (On-chain) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 176.47 589.25 Tm
+1 0 0 1 176.47 574.25 Tm
 (execution) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 222.05 589.25 Tm
+1 0 0 1 222.05 574.25 Tm
 (for) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 236.5 589.25 Tm
+1 0 0 1 236.5 574.25 Tm
 (DP-00001) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 284.3 589.25 Tm
+1 0 0 1 284.3 574.25 Tm
 (shall) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 307.64 589.25 Tm
+1 0 0 1 307.64 574.25 Tm
 (not) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 324.32 589.25 Tm
+1 0 0 1 324.32 574.25 Tm
 (include:) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 92 566.75 Tm
-(\225) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 107 566.75 Tm
-(any) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 125.9 566.75 Tm
-(buyback) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 165.92 566.75 Tm
-(operations,) Tj
 ET
 Q
 q
@@ -22974,119 +23135,63 @@ q
 BT
 /F1 10 Tf
 1 0 0 1 125.9 551.75 Tm
-(other) Tj
+(buyback) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 151.47 551.75 Tm
-(governance) Tj
+1 0 0 1 165.92 551.75 Tm
+(operations,) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 206.5 551.75 Tm
-(threshold) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 250.41 551.75 Tm
-(updates) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 288.77 551.75 Tm
-(\(staking) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 326.56 551.75 Tm
-(requirements) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 387.69 551.75 Tm
-(or) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 399.36 551.75 Tm
-(pass) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 423.26 551.75 Tm
-(thresholds\)) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 475.5 551.75 Tm
-(beyond) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 511.08 551.75 Tm
-(the) Tj
+1 0 0 1 92 536.75 Tm
+(\225) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
 1 0 0 1 107 536.75 Tm
-(team-sponsored) Tj
+(any) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 182.03 536.75 Tm
-(proposal) Tj
+1 0 0 1 125.9 536.75 Tm
+(creation/designation) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 223.16 536.75 Tm
-(pass) Tj
+1 0 0 1 218.17 536.75 Tm
+(of) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 247.06 536.75 Tm
-(threshold) Tj
+1 0 0 1 229.29 536.75 Tm
+(company) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 290.97 536.75 Tm
-(update) Tj
+1 0 0 1 272.64 536.75 Tm
+(treasury) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 324.33 536.75 Tm
-(above,) Tj
+1 0 0 1 311.54 536.75 Tm
+(accounts/vaults,) Tj
 ET
 Q
 q
@@ -23107,35 +23212,49 @@ q
 BT
 /F1 10 Tf
 1 0 0 1 125.9 521.75 Tm
-(creation/designation) Tj
+(delegation) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 218.17 521.75 Tm
+1 0 0 1 174.82 521.75 Tm
 (of) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 229.29 521.75 Tm
-(company) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 272.64 521.75 Tm
+1 0 0 1 185.94 521.75 Tm
 (treasury) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 311.54 521.75 Tm
-(accounts/vaults,) Tj
+1 0 0 1 224.84 521.75 Tm
+(signing) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 259.3 521.75 Tm
+(authority) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 300.43 521.75 Tm
+(to) Tj
+ET
+Q
+q
+BT
+/F1 10 Tf
+1 0 0 1 311.55 521.75 Tm
+(Designates,) Tj
 ET
 Q
 q
@@ -23156,111 +23275,48 @@ q
 BT
 /F1 10 Tf
 1 0 0 1 125.9 506.75 Tm
-(delegation) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 174.82 506.75 Tm
-(of) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 185.94 506.75 Tm
 (treasury) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 224.84 506.75 Tm
-(signing) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 259.3 506.75 Tm
-(authority) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 300.43 506.75 Tm
-(to) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 311.55 506.75 Tm
-(Designates,) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 92 491.75 Tm
-(\225) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 107 491.75 Tm
-(any) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 125.9 491.75 Tm
-(treasury) Tj
-ET
-Q
-q
-BT
-/F1 10 Tf
-1 0 0 1 164.8 491.75 Tm
+1 0 0 1 164.8 506.75 Tm
 (deployment) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 219.27 491.75 Tm
+1 0 0 1 219.27 506.75 Tm
 (transfers) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 260.95 491.75 Tm
+1 0 0 1 260.95 506.75 Tm
 (beyond) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 296.53 491.75 Tm
+1 0 0 1 296.53 506.75 Tm
 (the) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 313.21 491.75 Tm
+1 0 0 1 313.21 506.75 Tm
 (Legal) Tj
 ET
 Q
 q
 BT
 /F1 10 Tf
-1 0 0 1 340.45 491.75 Tm
+1 0 0 1 340.45 506.75 Tm
 (Budget.) Tj
 ET
 Q
@@ -24268,8 +24324,8 @@ endobj
   /Subject <FEFF0054005200450041005300550052005900200053005500420043004F004D004D0049005400540045004500200028005000520045002D0046004F0052004D004100540049004F004E002900200041004E00440020004C004500470041004C0020004200550044004700450054>
   /Creator <FEFF0053006F006C006F006D006F006E002000440041004F0020005200650063006F0072006400200053006300680065006D0061>
   /Producer (Solomon DAO Record Render)
-  /CreationDate (D:20260305191442Z)
-  /ModDate (D:20260305191442Z)
+  /CreationDate (D:20260305192122Z)
+  /ModDate (D:20260305192122Z)
 >>
 endobj
 xref
@@ -24344,80 +24400,80 @@ xref
 0000110187 00000 n 
 0000110379 00000 n 
 0000110528 00000 n 
-0000122759 00000 n 
-0000122949 00000 n 
-0000123133 00000 n 
-0000123328 00000 n 
-0000123444 00000 n 
-0000134989 00000 n 
-0000135105 00000 n 
-0000144216 00000 n 
-0000144332 00000 n 
-0000154073 00000 n 
-0000154189 00000 n 
-0000161233 00000 n 
-0000161403 00000 n 
-0000166296 00000 n 
-0000166587 00000 n 
-0000166864 00000 n 
-0000167158 00000 n 
-0000167483 00000 n 
-0000167689 00000 n 
-0000167894 00000 n 
-0000168010 00000 n 
-0000173266 00000 n 
-0000173382 00000 n 
-0000186226 00000 n 
-0000186342 00000 n 
-0000188538 00000 n 
-0000188654 00000 n 
-0000190760 00000 n 
-0000190876 00000 n 
-0000197498 00000 n 
-0000197615 00000 n 
-0000202539 00000 n 
-0000202657 00000 n 
-0000207065 00000 n 
-0000207227 00000 n 
-0000217296 00000 n 
-0000217509 00000 n 
-0000217713 00000 n 
-0000217916 00000 n 
-0000218131 00000 n 
-0000218249 00000 n 
-0000223689 00000 n 
-0000223807 00000 n 
-0000229061 00000 n 
-0000229147 00000 n 
-0000229378 00000 n 
-0000229484 00000 n 
-0000229646 00000 n 
-0000229866 00000 n 
-0000229975 00000 n 
-0000230102 00000 n 
-0000230223 00000 n 
-0000230335 00000 n 
-0000230494 00000 n 
-0000230652 00000 n 
-0000230836 00000 n 
-0000231002 00000 n 
-0000231148 00000 n 
-0000231255 00000 n 
-0000231487 00000 n 
-0000231622 00000 n 
-0000231750 00000 n 
-0000231885 00000 n 
-0000232017 00000 n 
-0000232199 00000 n 
-0000232409 00000 n 
-0000232527 00000 n 
-0000232679 00000 n 
-0000232905 00000 n 
-0000233026 00000 n 
-0000233187 00000 n 
-0000233364 00000 n 
-0000233501 00000 n 
-0000233652 00000 n 
+0000123202 00000 n 
+0000123392 00000 n 
+0000123576 00000 n 
+0000123771 00000 n 
+0000123887 00000 n 
+0000135432 00000 n 
+0000135548 00000 n 
+0000144659 00000 n 
+0000144775 00000 n 
+0000154516 00000 n 
+0000154632 00000 n 
+0000161676 00000 n 
+0000161846 00000 n 
+0000166739 00000 n 
+0000167030 00000 n 
+0000167307 00000 n 
+0000167601 00000 n 
+0000167926 00000 n 
+0000168132 00000 n 
+0000168337 00000 n 
+0000168453 00000 n 
+0000173709 00000 n 
+0000173825 00000 n 
+0000186669 00000 n 
+0000186785 00000 n 
+0000188981 00000 n 
+0000189097 00000 n 
+0000191203 00000 n 
+0000191319 00000 n 
+0000197941 00000 n 
+0000198058 00000 n 
+0000202982 00000 n 
+0000203100 00000 n 
+0000207707 00000 n 
+0000207869 00000 n 
+0000217938 00000 n 
+0000218151 00000 n 
+0000218355 00000 n 
+0000218558 00000 n 
+0000218773 00000 n 
+0000218891 00000 n 
+0000224072 00000 n 
+0000224190 00000 n 
+0000229444 00000 n 
+0000229530 00000 n 
+0000229761 00000 n 
+0000229867 00000 n 
+0000230029 00000 n 
+0000230249 00000 n 
+0000230358 00000 n 
+0000230485 00000 n 
+0000230606 00000 n 
+0000230718 00000 n 
+0000230877 00000 n 
+0000231035 00000 n 
+0000231219 00000 n 
+0000231385 00000 n 
+0000231531 00000 n 
+0000231638 00000 n 
+0000231870 00000 n 
+0000232005 00000 n 
+0000232133 00000 n 
+0000232268 00000 n 
+0000232400 00000 n 
+0000232582 00000 n 
+0000232792 00000 n 
+0000232910 00000 n 
+0000233062 00000 n 
+0000233288 00000 n 
+0000233409 00000 n 
+0000233570 00000 n 
+0000233747 00000 n 
+0000233884 00000 n 
+0000234035 00000 n 
 trailer
 <<
   /Size 144
@@ -24425,5 +24481,5 @@ trailer
   /Info 143 0 R
 >>
 startxref
-234515
+234898
 %%EOF
