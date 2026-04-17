@@ -27,8 +27,19 @@ back to the canonical sources.
 
 ## Compiled Documents Index
 
-See [`INDEX.md`](`INDEX.md`) for an index of the current list of compiled documents
+See [`INDEX.md`](INDEX.md) for an index of the current list of compiled documents
 available.
+
+## Note on the Company Agreement record set
+
+The `company-agreement/` folder contains the clean compiled reading copy of the
+Company Agreement together with the Republic of the Marshall Islands filed,
+stamped, certified, and related return documents for that same record set.
+
+The clean compiled reading copy should be retained alongside, and not replaced
+by, the Marshall Islands return documents. Where multiple official variants or
+related filing artefacts exist for the Company Agreement, the folder-level
+per-record index should be treated as the primary entry point.
 
 ## TODO
 
