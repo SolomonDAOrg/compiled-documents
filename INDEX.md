@@ -7,6 +7,7 @@
 | DP-00002 | dao-proposals | SOLO Acquisition and Restricted Incentives Reserve Framework | [`proposals/DP-00002/DP-00002_SOLO-Acquisition-Restricted-Incentives-Reserve-Framework.pdf`](proposals/DP-00002/DP-00002_SOLO-Acquisition-Restricted-Incentives-Reserve-Framework.pdf) |
 | DP-00003 | dao-proposals | Gigabus Proposal | [`proposals/DP-00003/DP-00003_Gigabus-Proposal.pdf`](proposals/DP-00003/DP-00003_Gigabus-Proposal.pdf) |
 | DP-00004 | dao-proposals | Preparing SOLO for Global Markets | [`proposals/DP-00004/DP-00004_preparing-solo-for-global-markets.pdf`](proposals/DP-00004/DP-00004_preparing-solo-for-global-markets.pdf) |
+| DP-00005 | dao-proposals | Productive Liquidity | [`proposals/DP-00005/DP-00005_migrate-liquidity-to-usdv.pdf`](proposals/DP-00005/DP-00005_migrate-liquidity-to-usdv.pdf) |
 | SOP-00001 | sop-registry | SOP Registry and Corporate Equivalency | [`sops/SOP-00001/SOP-00001_SOP-Registry-and-Corporate-Equivalency.pdf`](sops/SOP-00001/SOP-00001_SOP-Registry-and-Corporate-Equivalency.pdf) |
 | SOP-00002 | sop-registry | Futurnetic Principles | [`sops/SOP-00001/SOP-00002_SOP-Futurnetic-Principles.pdf`](sops/SOP-00001/SOP-00002_SOP-Futurnetic-Principles.pdf) |
 | SOP-00003 | sop-registry | Member Decorum and Communications | [`sops/SOP-00001/SOP-00003_SOP-Member-Decorum-and-Communications.pdf`](sops/SOP-00001/SOP-00003_SOP-Member-Decorum-and-Communications.pdf) |
